@@ -1,1 +1,2 @@
 i created a sample text file
+this is the second line after commiting
